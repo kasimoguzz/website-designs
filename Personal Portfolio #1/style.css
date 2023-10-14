@@ -430,6 +430,7 @@ section.contact .contact-container{
     font-size: 20px;
     padding: 20px;
     margin-top: 20px;
+resize: none;
 }
 
 section.contact .contact-container .button{
